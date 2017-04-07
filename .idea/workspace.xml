@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06b3b708-531c-4ad3-9234-4695dcde78f6" name="Default" comment="" />
+    <ignored path="untitled.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="reservations" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="rental_comments" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Pick_Drop" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="parking_locations_reservations" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="parking_locations" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="member_rental_history" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ktcs_members" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="cars" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="car_rental_history" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="car_maintenance_history" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @bill-li.local" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="admins" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-461">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding>
+                <marker date="1491506236000" expanded="true" signature="350:500" ph="Insert into KTCS.ktcs_members... " />
+                <marker date="1491506236000" expanded="true" signature="356:357" ph="SELECT name,... ktcs_members" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_functions/resp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1132">
+              <caret line="91" column="94" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="94" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1491501684000" expanded="true" signature="582:650" ph="select * fro... rental_comments" />
+                <marker date="1491501684000" expanded="true" signature="1864:1905" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="1864:1916" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="1864:1917" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="1864:2680" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="1864:2821" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="1906:1916" ph="..." />
+                <marker date="1491501684000" expanded="true" signature="2169:2217" ph="UPDATE renta... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KTCS.ktcs_members" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.ktcs_members">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KTCS.rental_comments" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.rental_comments">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_functions/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="47" column="49" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="49" />
+              <folding>
+                <marker date="1491337168000" expanded="true" signature="632:689" ph="UPDATE KTCS.... " />
+                <marker date="1491337168000" expanded="true" signature="897:951" ph="UPDATE KTCS.... " />
+                <marker date="1491337168000" expanded="true" signature="1103:1168" ph="UPDATE KTCS.... " />
+                <marker date="1491337168000" expanded="true" signature="2053:2132" ph="SELECT membe... ktcs_members" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <marker date="1491502965000" expanded="true" signature="1151:1218" ph="SELECT name,... admins" />
+                <marker date="1491502965000" expanded="true" signature="1288:1377" ph="SELECT membe... ktcs_members" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_reserve.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_functions/search_reserve.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2775">
+              <caret line="185" column="58" selection-start-line="185" selection-start-column="55" selection-end-line="185" selection-end-column="58" />
+              <folding>
+                <marker date="1491508962000" expanded="true" signature="554:633" ph="SELECT membe... ktcs_members" />
+                <marker date="1491508962000" expanded="true" signature="1408:1437" ph="select * fro... cars" />
+                <marker date="1491508962000" expanded="true" signature="1408:1452" ph="select * fro... cars" />
+                <marker date="1491508962000" expanded="true" signature="1408:1453" ph="select * fro... cars" />
+                <marker date="1491508962000" expanded="true" signature="1408:1454" ph="select * fro... cars" />
+                <marker date="1491508962000" expanded="true" signature="1822:1831" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="1860:1870" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="1888:2068" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="2660:2673" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="3030:3064" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="3798:3833" ph="select * fro... cars" />
+                <marker date="1491508962000" expanded="true" signature="4227:4236" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="4252:4262" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="4284:4286" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="4284:4469" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="5433:6315" ph="..." />
+                <marker date="1491508962000" expanded="true" signature="5455:5699" ph="INSERT INTO KTCS.reservations... " />
+                <marker date="1491508962000" expanded="true" signature="5883:5964" ph="select max(r... reservations" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car_manage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_functions/car_manage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="349" column="47" selection-start-line="349" selection-start-column="47" selection-end-line="349" selection-end-column="47" />
+              <folding>
+                <marker date="1491504366000" expanded="true" signature="582:779" ph="SELECT DISTI... " />
+                <marker date="1491504366000" expanded="true" signature="1098:1108" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="1174:1282" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="1741:1967" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="2098:2139" ph="SELECT * FRO... cars" />
+                <marker date="1491504366000" expanded="true" signature="4382:4560" ph="SELECT * FRO... cars" />
+                <marker date="1491504366000" expanded="true" signature="4420:4504" ph="SELECT vin,m... car_maintenance_history" />
+                <marker date="1491504366000" expanded="true" signature="5136:5164" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="6072:6129" ph="Select * FRO... cars" />
+                <marker date="1491504366000" expanded="true" signature="7584:7636" ph="Select * FRO... cars" />
+                <marker date="1491504366000" expanded="true" signature="9195:9239" ph="Select * FRO... cars" />
+                <marker date="1491504366000" expanded="true" signature="10844:10859" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="10860:10919" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="10875:10894" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="10895:10919" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="11011:11342" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="11011:11894" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="11439:11894" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="12182:12197" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="12213:12244" ph="..." />
+                <marker date="1491504366000" expanded="true" signature="12768:12805" ph="Select vin f... cars" />
+                <marker date="1491504366000" expanded="true" signature="13059:13268" ph="INSERT INTO KTCS.cars... " />
+                <marker date="1491504366000" expanded="true" signature="13830:14038" ph="SELECT * FRO... *" />
+                <marker date="1491504366000" expanded="true" signature="13848:14000" ph="select * fro... parking_locations_reservations" />
+                <marker date="1491504366000" expanded="true" signature="14040:14078" ph="SELECT * fro... cars" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/connections/connections.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/config/connection.php" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/pick_up.php" />
+        <option value="$PROJECT_DIR$/locations.php" />
+        <option value="$PROJECT_DIR$/user_functions/drop_off.php" />
+        <option value="$PROJECT_DIR$/user_functions/pick_up.php" />
+        <option value="$PROJECT_DIR$/user_functions/reserve.php" />
+        <option value="$PROJECT_DIR$/user_functions/search_by_date.php" />
+        <option value="$PROJECT_DIR$/user_functions/profile.php" />
+        <option value="$PROJECT_DIR$/user_functions/locations.php" />
+        <option value="$PROJECT_DIR$/user_functions/history.php" />
+        <option value="$PROJECT_DIR$/user_functions/feedback.php" />
+        <option value="$PROJECT_DIR$/admin_functions/invoice.php" />
+        <option value="$PROJECT_DIR$/user_functions/pickdrop.php" />
+        <option value="$PROJECT_DIR$/admin_functions/search.php" />
+        <option value="$PROJECT_DIR$/user_home.php" />
+        <option value="$PROJECT_DIR$/admin_home.php" />
+        <option value="$PROJECT_DIR$/admin_functions/reps.php" />
+        <option value="$PROJECT_DIR$/admin_functions/resp.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin_functions/car_manage.php" />
+        <option value="$PROJECT_DIR$/style/style.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/console.sql" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/user_functions/search_reserve.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from XAMPP">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="user_functions">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KTCS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="/Applications/XAMPP/htdocs/source" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="database.data.extractors.current" value="SQL Inserts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/user_functions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06b3b708-531c-4ad3-9234-4695dcde78f6" name="Default" comment="" />
+      <created>1491187641781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491187641781</updated>
+      <workItem from="1491187643208" duration="961000" />
+      <workItem from="1491188905315" duration="1717000" />
+      <workItem from="1491191174520" duration="898000" />
+      <workItem from="1491192237607" duration="1664000" />
+      <workItem from="1491193984254" duration="13377000" />
+      <workItem from="1491319764552" duration="14993000" />
+      <workItem from="1491438711212" duration="127000" />
+      <workItem from="1491448873713" duration="33127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2234375" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/pickdrop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+          <folding>
+            <marker date="1491472835000" expanded="true" signature="554:633" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="1219:1309" ph="select max(r... reservations" />
+            <marker date="1491472835000" expanded="true" signature="1663:1705" ph="select Odome... cars" />
+            <marker date="1491472835000" expanded="true" signature="1977:2142" ph="INSERT INTO KTCS.car_rental_history... " />
+            <marker date="1491472835000" expanded="true" signature="2332:2392" ph="SELECT max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2333:2390" ph="select max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2630:2725" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="2630:2726" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="3122:3258" ph="..." />
+            <marker date="1491472835000" expanded="true" signature="3368:3467" ph="SELECT max(c... car_rental_history_ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="3660:3753" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="3887:3952" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4072:4122" ph="SELECT vin F... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="4349:4392" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4719:4798" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="5558:5771" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <marker date="1491502965000" expanded="true" signature="1151:1218" ph="SELECT name,... admins" />
+            <marker date="1491502965000" expanded="true" signature="1288:1377" ph="SELECT membe... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/pickdrop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1491472835000" expanded="true" signature="554:633" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="1219:1309" ph="select max(r... reservations" />
+            <marker date="1491472835000" expanded="true" signature="1663:1705" ph="select Odome... cars" />
+            <marker date="1491472835000" expanded="true" signature="1977:2142" ph="INSERT INTO KTCS.car_rental_history... " />
+            <marker date="1491472835000" expanded="true" signature="2332:2392" ph="SELECT max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2333:2390" ph="select max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2630:2725" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="2630:2726" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="3122:3258" ph="..." />
+            <marker date="1491472835000" expanded="true" signature="3368:3467" ph="SELECT max(c... car_rental_history_ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="3660:3753" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="3887:3952" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4072:4122" ph="SELECT vin F... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="4349:4392" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4719:4798" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="5558:5771" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.cars">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.car_rental_history_ktcs_members">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.php" />
+    <entry file="file://$PROJECT_DIR$/register.php" />
+    <entry file="file://$PROJECT_DIR$/main.php" />
+    <entry file="file:///usr/bin/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="282" column="45" selection-start-line="282" selection-start-column="45" selection-end-line="282" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/bin/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="282" column="45" selection-start-line="282" selection-start-column="45" selection-end-line="282" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/connections/connections.php" />
+    <entry file="file://$PROJECT_DIR$/main.php" />
+    <entry file="file://$PROJECT_DIR$/user_functions/reserve.php" />
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.Pick_Drop">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.car_rental_history">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="29" />
+          <folding>
+            <marker date="1491461554000" expanded="true" signature="553:632" ph="SELECT membe... ktcs_members" />
+            <marker date="1491461554000" expanded="true" signature="1286:1390" ph="insert into KTCS.rental_comments... " />
+            <marker date="1491461554000" expanded="true" signature="1286:1391" ph="insert into KTCS.rental_comments... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.car_rental_history_ktcs_members">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.admins">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="20" />
+          <folding>
+            <marker date="1491456374000" expanded="true" signature="399:471" ph="SELECT membe... reservations" />
+            <marker date="1491456374000" expanded="true" signature="817:826" ph="..." />
+            <marker date="1491456374000" expanded="true" signature="855:865" ph="..." />
+            <marker date="1491456374000" expanded="true" signature="883:1009" ph="..." />
+            <marker date="1491456374000" expanded="true" signature="1801:1880" ph="SELECT membe... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.car_maintenance_history">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_functions/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="53" column="68" selection-start-line="33" selection-start-column="9" selection-end-line="53" selection-end-column="68" />
+          <folding>
+            <marker date="1491468080000" expanded="true" signature="599:701" ph="SELECT * FRO... reservations" />
+            <marker date="1491468080000" expanded="true" signature="1130:1140" ph="..." />
+            <marker date="1491468080000" expanded="true" signature="1166:1292" ph="..." />
+            <marker date="1491468080000" expanded="true" signature="2055:2313" ph="..." />
+            <marker date="1491468080000" expanded="true" signature="2315:2387" ph="SELECT * FRO... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.reservations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/pickdrop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <marker date="1491472835000" expanded="true" signature="554:633" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="1219:1309" ph="select max(r... reservations" />
+            <marker date="1491472835000" expanded="true" signature="1663:1705" ph="select Odome... cars" />
+            <marker date="1491472835000" expanded="true" signature="1977:2142" ph="INSERT INTO KTCS.car_rental_history... " />
+            <marker date="1491472835000" expanded="true" signature="2332:2392" ph="SELECT max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2333:2390" ph="select max(i... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="2630:2725" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="2630:2726" ph="INSERT INTO KTCS.car_rental_history_ktcs_members... " />
+            <marker date="1491472835000" expanded="true" signature="3122:3258" ph="..." />
+            <marker date="1491472835000" expanded="true" signature="3368:3467" ph="SELECT max(c... car_rental_history_ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="3660:3753" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="3887:3952" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4072:4122" ph="SELECT vin F... car_rental_history" />
+            <marker date="1491472835000" expanded="true" signature="4349:4392" ph="UPDATE KTCS.... " />
+            <marker date="1491472835000" expanded="true" signature="4719:4798" ph="SELECT membe... ktcs_members" />
+            <marker date="1491472835000" expanded="true" signature="5558:5771" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/locations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="11" />
+          <folding>
+            <marker date="1491337373000" expanded="true" signature="549:628" ph="SELECT membe... ktcs_members" />
+            <marker date="1491337373000" expanded="true" signature="1598:1634" ph="SELECT * FRO... parking_locations" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1491481355000" expanded="true" signature="538:617" ph="SELECT membe... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_functions/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+          <folding>
+            <marker date="1491475957000" expanded="true" signature="348:549" ph="select date,... " />
+            <marker date="1491475957000" expanded="true" signature="348:609" ph="select date,... " />
+            <marker date="1491475957000" expanded="true" signature="348:623" ph="select date,... " />
+            <marker date="1491475957000" expanded="true" signature="1156:1166" ph="..." />
+            <marker date="1491475957000" expanded="true" signature="1192:1374" ph="..." />
+            <marker date="1491475957000" expanded="true" signature="2208:2230" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.cars">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.parking_locations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.parking_locations_reservations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_functions/car_manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="349" column="47" selection-start-line="349" selection-start-column="47" selection-end-line="349" selection-end-column="47" />
+          <folding>
+            <marker date="1491504366000" expanded="true" signature="582:779" ph="SELECT DISTI... " />
+            <marker date="1491504366000" expanded="true" signature="1098:1108" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="1174:1282" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="1741:1967" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="2098:2139" ph="SELECT * FRO... cars" />
+            <marker date="1491504366000" expanded="true" signature="4382:4560" ph="SELECT * FRO... cars" />
+            <marker date="1491504366000" expanded="true" signature="4420:4504" ph="SELECT vin,m... car_maintenance_history" />
+            <marker date="1491504366000" expanded="true" signature="5136:5164" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="6072:6129" ph="Select * FRO... cars" />
+            <marker date="1491504366000" expanded="true" signature="7584:7636" ph="Select * FRO... cars" />
+            <marker date="1491504366000" expanded="true" signature="9195:9239" ph="Select * FRO... cars" />
+            <marker date="1491504366000" expanded="true" signature="10844:10859" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="10860:10919" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="10875:10894" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="10895:10919" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="11011:11342" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="11011:11894" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="11439:11894" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="12182:12197" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="12213:12244" ph="..." />
+            <marker date="1491504366000" expanded="true" signature="12768:12805" ph="Select vin f... cars" />
+            <marker date="1491504366000" expanded="true" signature="13059:13268" ph="INSERT INTO KTCS.cars... " />
+            <marker date="1491504366000" expanded="true" signature="13830:14038" ph="SELECT * FRO... *" />
+            <marker date="1491504366000" expanded="true" signature="13848:14000" ph="select * fro... parking_locations_reservations" />
+            <marker date="1491504366000" expanded="true" signature="14040:14078" ph="SELECT * fro... cars" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.member_rental_history">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="47" column="49" selection-start-line="46" selection-start-column="8" selection-end-line="47" selection-end-column="49" />
+          <folding>
+            <marker date="1491337168000" expanded="true" signature="632:689" ph="UPDATE KTCS.... " />
+            <marker date="1491337168000" expanded="true" signature="897:951" ph="UPDATE KTCS.... " />
+            <marker date="1491337168000" expanded="true" signature="1103:1168" ph="UPDATE KTCS.... " />
+            <marker date="1491337168000" expanded="true" signature="2053:2132" ph="SELECT membe... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.rental_comments">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_functions/resp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1132">
+          <caret line="91" column="94" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1491501684000" expanded="true" signature="582:650" ph="select * fro... rental_comments" />
+            <marker date="1491501684000" expanded="true" signature="1864:1905" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="1864:1916" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="1864:1917" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="1864:2680" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="1864:2821" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="1906:1916" ph="..." />
+            <marker date="1491501684000" expanded="true" signature="2169:2217" ph="UPDATE renta... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/1ffb5a60/4dd15cee-3fcc-4da4-8c9f-6bacfbc0acf2/KTCS.ktcs_members">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <marker date="1491506236000" expanded="true" signature="350:500" ph="Insert into KTCS.ktcs_members... " />
+            <marker date="1491506236000" expanded="true" signature="356:357" ph="SELECT name,... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1491502965000" expanded="true" signature="1151:1218" ph="SELECT name,... admins" />
+            <marker date="1491502965000" expanded="true" signature="1288:1377" ph="SELECT membe... ktcs_members" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_functions/search_reserve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="185" column="58" selection-start-line="185" selection-start-column="55" selection-end-line="185" selection-end-column="58" />
+          <folding>
+            <marker date="1491508962000" expanded="true" signature="554:633" ph="SELECT membe... ktcs_members" />
+            <marker date="1491508962000" expanded="true" signature="1408:1437" ph="select * fro... cars" />
+            <marker date="1491508962000" expanded="true" signature="1408:1452" ph="select * fro... cars" />
+            <marker date="1491508962000" expanded="true" signature="1408:1453" ph="select * fro... cars" />
+            <marker date="1491508962000" expanded="true" signature="1408:1454" ph="select * fro... cars" />
+            <marker date="1491508962000" expanded="true" signature="1822:1831" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="1860:1870" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="1888:2068" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="2660:2673" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="3030:3064" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="3798:3833" ph="select * fro... cars" />
+            <marker date="1491508962000" expanded="true" signature="4227:4236" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="4252:4262" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="4284:4286" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="4284:4469" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="5433:6315" ph="..." />
+            <marker date="1491508962000" expanded="true" signature="5455:5699" ph="INSERT INTO KTCS.reservations... " />
+            <marker date="1491508962000" expanded="true" signature="5883:5964" ph="select max(r... reservations" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
