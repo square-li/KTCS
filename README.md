@@ -1,7 +1,7 @@
 # KTCS
 ## Queen'sU CISC 332 Database Management Final Project.
-===========================================
-All codes are created by Square-li (Xiao Li) 
+
+All codes are created by _Square-li (Xiao Li _
 It's a basic php project for some exercise SQL queries and database design / management.
 
 Support several functions such as:
